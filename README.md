@@ -1,4 +1,4 @@
-# N-Queens-Problem-Using-Genetic-Algorithm
+# An adaptive Genetic Algorithm for solving the N-Queens-Problem
 
 This is a Meta-heuristic approach for solving the N-Queens Problem to find the
 best possible solution in a reasonable amount of time. This method is computationally more efficient than the traditional methods like Gradient Descent, Dynamic Programming and Newton Methods.
